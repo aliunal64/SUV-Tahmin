@@ -10,6 +10,8 @@ Bu projenin temel amacı, bir veri setini kullanarak tahmin yeteneği olan bir m
 
 🧮 Sınıflandırma görevini gerçekleştirmek için Karar Ağacı (Decision Tree) algoritması kullanılmıştır.
 
+🧷 Google Colab Linki: https://colab.research.google.com/drive/1smjsaNUIzjtJUDiCavLR3zWmYnEliUMm
+
 ------------------------------------------------------------------------
 
 🔍 Proje Adımları
